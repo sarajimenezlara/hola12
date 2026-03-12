@@ -16,4 +16,5 @@ Se utiliza mucho en proyectos con frameworks modernos como React.
 React es una librería de JavaScript que se utiliza para crear interfaces de usuario. 
 Permite dividir una página web en componentes los cuales se pueden reutilizar, lo que hace que el código sea mucho más fácil de mantener y de organizar. 
 Aparte, React actualiza automáticamente la interfaz cuando se cambian los datos de la aplicación.
+
 ![Prototipo de la Interfaz Web](image.png)
